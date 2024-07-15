@@ -5,7 +5,7 @@ Desafio 2 do curso FullCycle - Módulo Docker
 docker compose up -d --build
 
 #### Acessar bash do container node
-docker exec -it app bash
+docker exec -it node bash
 
 #### Startar aplicação
 node index.js
